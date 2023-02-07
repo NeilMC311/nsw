@@ -1,282 +1,130 @@
 [
     {
-        "name": "Adam Howell",
+        "name": "Mick Webster",
+        "comp": "Sports",
+        "cn": "XGG",
+        "glider": "LS8",
+        "flarm": [
+            "D022DE"
+        ]
+    },
+    {
+        "name": "Miles Gore-Brown",
+        "comp": "Sports",
+        "cn": "GWB",
+        "glider": "LS8",
+        "flarm": [
+            "7C2179"
+        ]
+    },
+    {
+        "name": "Ranjit Phelan",
+        "comp": "Sports",
+        "cn": "GEP",
+        "glider": "Diana2",
+        "flarm": [
+            "FD0C97",
+            "D008A7"
+        ]
+    },
+    {
+        "name": "Jacob Bloom",
+        "comp": "Sports",
+        "cn": "JKB",
+        "glider": "JS3-15M",
+        "flarm": [
+            "7C2EF9"
+        ]
+    },
+    {
+        "name": "Kerrie Claffey",
+        "comp": "Sports",
+        "cn": "XTK",
+        "glider": "ASG29-18M",
+        "flarm": [
+            "7C7726"
+        ]
+    },
+    {
+        "name": "Ed Marel",
+        "comp": "Sports",
+        "cn": "DOH",
+        "glider": "ASH31Mi-18M",
+        "flarm": [
+            "DDE9E9"
+        ]
+    },
+    {
+        "name": "Phil Heintze",
         "comp": "Club",
-        "cn": "XC",
-        "glider": "Kestrel 17m",
+        "cn": "UKE",
+        "glider": "ASW19B-W",
         "flarm": [
-            "DDFB2F"
+            "DD517F"
         ]
     },
     {
-        "name": "Alan Dean",
+        "name": "Bernie Sizer",
         "comp": "Club",
-        "cn": "ER",
-        "glider": "DG 505 20m WL",
+        "cn": "GVH",
+        "glider": "PIK20B-W",
         "flarm": [
-            "DDB3BD"
+            "DD506D"
         ]
     },
     {
-        "name": "Alf McMillan",
+        "name": "Paul Dickson",
         "comp": "Club",
-        "cn": "AJ",
-        "glider": "LS 4b",
+        "cn": "UKC",
+        "glider": "LS3",
         "flarm": [
-            "7C2058"
+            "DDB705"
         ]
     },
     {
-        "name": "David Meredith",
+        "name": "Peter Hoogland",
         "comp": "Club",
-        "cn": "ZT",
-        "glider": "Jantar Std 2",
+        "cn": "GGJ",
+        "glider": "SZD55",
         "flarm": [
-            "D01932"
+            "DDDFFA"
         ]
     },
     {
-        "name": "Andrew Laverick",
+        "name": "Peter Brunton",
         "comp": "Club",
-        "cn": "CR",
-        "glider": "Std. Libelle",
+        "cn": "KYF",
+        "glider": "ASW20-W",
         "flarm": [
-            "D01CDE"
+            "DDB779"
         ]
     },
     {
-        "name": "Wayne Mackley",
+        "name": "Richard Frawley",
         "comp": "Club",
-        "cn": "CQX",
-        "glider": "Jantar Std 2",
+        "cn": "CQO",
+        "glider": "LS4A",
         "flarm": [
-            "DD8E49"
+            "D00952",
+            "DDC0BA"
         ]
     },
     {
-        "name": "Garry Stevenson",
+        "name": "Ross Whittle",
         "comp": "Club",
-        "cn": "UKK",
-        "glider": "Discus b",
+        "cn": "GFY",
+        "glider": "DISCUSB-W",
         "flarm": [
-            "7C7A34"
+            "D00D46"
         ]
     },
     {
-        "name": "Jack Hart",
+        "name": "Thomas Jamieson",
         "comp": "Club",
-        "cn": "JH",
-        "glider": "ASW20B WL",
+        "cn": "GYM",
+        "glider": "ASW20B",
         "flarm": [
-            "D00598"
-        ]
-    },
-    {
-        "name": "Jaroslaw Mosiejewski",
-        "comp": "Club",
-        "cn": "WQF",
-        "glider": "PIK-20 B WL",
-        "flarm": [
-            "DDB36C"
-        ]
-    },
-    {
-        "name": "Leonie Furze",
-        "comp": "Club",
-        "cn": "GZW",
-        "glider": "Discus b",
-        "flarm": [
-            "DDC4AF"
-        ]
-    },
-    {
-        "name": "Mark Simpson",
-        "comp": "Club",
-        "cn": "SIW",
-        "glider": "Silent 2 Targa",
-        "flarm": [
-            "DD5324"
-        ]
-    },
-    {
-        "name": "Paul Dilks",
-        "comp": "Club",
-        "cn": "KYP",
-        "glider": "Astir CS 77",
-        "flarm": [
-            "DD8E6D"
-        ]
-    },
-    {
-        "name": "Champness & Robertson",
-        "comp": "Club",
-        "cn": "IKM",
-        "glider": "Twin Astir RG",
-        "flarm": [
-            "DDB542"
-        ]
-    },
-    {
-        "name": "Rolf Buelter",
-        "comp": "Club",
-        "cn": "GWQ",
-        "glider": "Janus 18.2m",
-        "flarm": [
-            "7C2188"
-        ]
-    },
-    {
-        "name": "Steve Jinks",
-        "comp": "Club",
-        "cn": "FQN",
-        "glider": "Mosquito",
-        "flarm": [
-            "DD513F"
-        ]
-    },
-    {
-        "name": "Terry Cubley",
-        "comp": "Club",
-        "cn": "SG",
-        "glider": "Mosquito",
-        "flarm": [
-            "D01C98"
-        ]
-    },
-    {
-        "name": "Ulrich Buelter",
-        "comp": "Open-18m",
-        "cn": "FQF",
-        "glider": "LS 8T 18m",
-        "flarm": [
-            "7C1B95"
-        ]
-    },
-    {
-        "name": "Ryan Driscoll",
-        "comp": "Open-18m",
-        "cn": "ZBV",
-        "glider": "Nimbus 3T 25.5m",
-        "flarm": [
-            "003733"
-        ]
-    },
-    {
-        "name": "Arnold Niewand",
-        "comp": "Open-18m",
-        "cn": "WP",
-        "glider": "ASG 29 E 18m",
-        "flarm": [
-            "DF09C6"
-        ]
-    },
-    {
-        "name": "John Orton",
-        "comp": "Open-18m",
-        "cn": "DW",
-        "glider": "ASG 29 18m",
-        "flarm": [
-            "D00417"
-        ]
-    },
-    {
-        "name": "Thorpe & Vagg",
-        "comp": "Open-18m",
-        "cn": "XQK",
-        "glider": "DG 500M 22m",
-        "flarm": [
-            "DDB452"
-        ]
-    },
-    {
-        "name": "Craig Vinall",
-        "comp": "Open-18m",
-        "cn": "VNL",
-        "glider": "AS 33 Es 18m",
-        "flarm": [
-            "DF22BF"
-        ]
-    },
-    {
-        "name": "Nazari & Imam",
-        "comp": "Open-18m",
-        "cn": "HE",
-        "glider": "Duo Discus",
-        "flarm": [
-            "7C1F60"
-        ]
-    },
-    {
-        "name": "Graham Adams",
-        "comp": "15m-Std",
-        "cn": "RG",
-        "glider": "Ventus bT 15m 430kg",
-        "flarm": [
-            "DF239D"
-        ]
-    },
-    {
-        "name": "Neil Campbell",
-        "comp": "15m-Std",
-        "cn": "NC",
-        "glider": "ASW 24 WL",
-        "flarm": [
-            "7C7E94"
-        ]
-    },
-    {
-        "name": "Craig Dilks",
-        "comp": "15m-Std",
-        "cn": "UKX",
-        "glider": "PIK-20 B",
-        "flarm": [
-            "DDF91B"
-        ]
-    },
-    {
-        "name": "Russell Edwards",
-        "comp": "15m-Std",
-        "cn": "TC",
-        "glider": "ASW 28",
-        "flarm": [
-            "DDB33B",
-            "D01833"
-        ]
-    },
-    {
-        "name": "David Nugent",
-        "comp": "15m-Std",
-        "cn": "QX",
-        "glider": "LS 3",
-        "flarm": [
-            "D00155"
-        ]
-    },
-    {
-        "name": "Tim Shirley",
-        "comp": "15m-Std",
-        "cn": "2M",
-        "glider": "ASW 28",
-        "flarm": [
-            "DD521A"
-        ]
-    },
-    {
-        "name": "Gordon Trollip",
-        "comp": "15m-Std",
-        "cn": "XJS",
-        "glider": "LS 6",
-        "flarm": [
-            "7C75C6"
-        ]
-    },
-    {
-        "name": "Keith 'Sniffer' Willis",
-        "comp": "sports",
-        "cn": "ZAW",
-        "glider": "PW-5",
-        "flarm": [
-            "DDB456"
+            "DDE68D"
         ]
     }
 ]
