@@ -11,7 +11,7 @@
     {
         "name": "Miles Gore-Brown",
         "comp": "Sports",
-        "cn": "GWB",
+        "cn": "WB",
         "glider": "LS8",
         "flarm": [
             "7C2179"
@@ -20,17 +20,16 @@
     {
         "name": "Ranjit Phelan",
         "comp": "Sports",
-        "cn": "GEP",
+        "cn": "RP",
         "glider": "Diana2",
         "flarm": [
-            "FD0C97",
             "D008A7"
         ]
     },
     {
         "name": "Jacob Bloom",
         "comp": "Sports",
-        "cn": "JKB",
+        "cn": "JB",
         "glider": "JS3-15M",
         "flarm": [
             "7C2EF9"
@@ -39,7 +38,7 @@
     {
         "name": "Kerrie Claffey",
         "comp": "Sports",
-        "cn": "XTK",
+        "cn": "T1",
         "glider": "ASG29-18M",
         "flarm": [
             "7C7726"
@@ -48,7 +47,7 @@
     {
         "name": "Ed Marel",
         "comp": "Sports",
-        "cn": "DOH",
+        "cn": "31",
         "glider": "ASH31Mi-18M",
         "flarm": [
             "DDE9E9"
@@ -66,7 +65,7 @@
     {
         "name": "Bernie Sizer",
         "comp": "Club",
-        "cn": "GVH",
+        "cn": "VH",
         "glider": "PIK20B-W",
         "flarm": [
             "DD506D"
@@ -105,14 +104,13 @@
         "cn": "CQO",
         "glider": "LS4A",
         "flarm": [
-            "D00952",
-            "DDC0BA"
+            "D00952"
         ]
     },
     {
         "name": "Ross Whittle",
         "comp": "Club",
-        "cn": "GFY",
+        "cn": "FY",
         "glider": "DISCUSB-W",
         "flarm": [
             "D00D46"
