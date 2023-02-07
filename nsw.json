@@ -1,0 +1,19 @@
+{
+    "comps": [
+        {
+            "id": "Sports",
+            "name": "2023 NSW Championships",
+            "short": "Open-18m Class",
+            "task": "https://www.soaringspot.com/en_gb/2023-nsw-state-gliding-championships-narromine-2023/results/sport",
+            "colour": "#0074D9"
+        },
+        {
+            "id": "Club",
+            "name": "2023 NSW Championships",
+            "short": "Club Class",
+            "task": "https://www.soaringspot.com/en_gb/2023-nsw-state-gliding-championships-narromine-2023/results/club",
+            "colour": "#BF211E"
+        }
+    ],
+    "gliders": "https://raw.githubusercontent.com/NeilMC311/nsw/main/gliders.json"
+}
